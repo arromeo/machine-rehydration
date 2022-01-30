@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The problem that I was trying to solve in this repo was being able to have multiple tabs manipulate a shared state, and for the new state to be updated in the XState context of all tabs.
 
 ## Available Scripts
 
